@@ -1,1 +1,1 @@
-Astra makes Jibo look similar to Amazon Astro. It also replaces the menu with a custom menu. This theme is minimalistic and used as an example for theme-makers.
+This themepack is intended to showcase what Jibo might've looked like if he had kept his UI from the 2014 Indiegogo trailer.
